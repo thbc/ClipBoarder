@@ -1,6 +1,6 @@
 # ClipBoarder
 A simple command line for copying batches of scripts to the clipboard. Useful for providing contexts to LLM prompts.
-
+![alt text](assets/logo.png)
 
 # Requirements
 

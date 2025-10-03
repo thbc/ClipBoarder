@@ -1,6 +1,5 @@
-<p align="center">
 # ClipBoarder
-<img src="assets/logo.png" alt="Alt Text" width="300" height="300"></p>
+<p align="center"><img src="assets/logo.png" alt="Alt Text" width="300" height="300"></p>
 
 A simple command line for copying batches of scripts to the clipboard. Useful for providing contexts to LLM prompts.
 

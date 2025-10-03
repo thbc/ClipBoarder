@@ -1,6 +1,6 @@
 # ClipBoarder
 A simple command line for copying batches of scripts to the clipboard. Useful for providing contexts to LLM prompts.
-<img src="assets/logo.png" alt="Alt Text" width="300" height="200">
+<img src="assets/logo.png" alt="Alt Text" width="300" height="300">
 # Requirements
 
 pip install -r requirements.txt

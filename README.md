@@ -1,3 +1,4 @@
+<h1 align="center">ClipBoarder</h1>
 <p align="center"><img src="assets/logo.png" alt="Alt Text" width="300" height="300"></p>
 
 # ClipBoarder

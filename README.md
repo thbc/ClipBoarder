@@ -21,4 +21,5 @@ pyinstaller --onefile --windowed --name Clipboarder-GUI   --icon assets/app.ico 
 # License
 
 MIT © 2025 thbc
+
 See LICENSE. Third-party licenses are listed in THIRD_PARTY_NOTICES.md.
